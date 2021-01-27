@@ -54,10 +54,9 @@ This application uses node.js and the npm 'inquirer' to generate a professional-
 
 To run this application, open this repository in VS Code, right click on the index.js file in this repository and select 'Open in Integrated Terminal'. A new terminal will open on the bottom of your VS Code window. On the command line, enter 'node index.js' then press enter. You will then be prompted with a series of questions about your repository for the generator.
 
-Demonstration:
+Demonstration Video:
 
-
-
+[Click to View Video](https://drive.google.com/file/d/1pj8wW0UN6VFcUVbGX8dvRBM-sTiTIc8R/view)
     
 ## Contributing
 
