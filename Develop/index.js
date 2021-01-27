@@ -1,3 +1,6 @@
+//I made this as short as I could, I think. I'm certain there are ways to make it even more clean/efficient, but if nothing else...
+//..I'm proud of the fact that I have a one-line function in here ;) .
+
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
@@ -57,12 +60,12 @@ const questions = [ //made this an array of objects
     }
 
 ];
-//make this a clean one-line fxn to capture the user input for future manipulation
+//make this a clean one-line fxn which uses inquirer to capture the user answers to the questions array for future manipulation
 const getInput = () => inquirer.prompt(questions)
 
 // TODO: Create a function to write README file 
 function writeToFile(fileName, data) {
-    //this seems redundant but okay here's the fs.writeFile function
+    //this seems unnecessary as a separate fxn but okay here's the fs.writeFile function
     //takes a fileName and data, then creates a file of that type/name, then writes the 'data' into it
     //if there's an error code, it will be logged to the console, else it will log 'Success!'
     fs.writeFile(fileName, data, (err) =>

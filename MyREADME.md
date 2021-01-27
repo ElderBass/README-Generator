@@ -1,12 +1,12 @@
 # README Generator 
 
-Note that this README file was generated using this very application.
 
 
    * Deployed: https://elderbass.github.io/README-Generator/
 
    * GitHub Repository: https://github.com/ElderBass/README-Generator.git
 
+**Note: This README file was generated using this very application.*
 
     
 ## Description
