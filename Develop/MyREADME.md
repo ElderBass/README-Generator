@@ -1,7 +1,11 @@
 # README Generator 
 
+Note that this README file was generated using this very application.
 
-    
+
+   * Deployed: https://elderbass.github.io/README-Generator/
+
+   * GitHub Repository: https://github.com/ElderBass/README-Generator.git
 
 
     
@@ -47,6 +51,12 @@ User information:
 
     
 This application uses node.js and the npm 'inquirer' to generate a professional-grade README file using input passed in by the user. The user will answer a series of prompts which gathers information about the README, creates a new file, and writes the user's information into the appropriate spaces on the new README. The new README is then generated in the 'Develop' folder of this repository with the name 'NEWREADME' so it is not confused with this README.
+
+To run this application, open this repository in VS Code, right click on the index.js file in this repository and select 'Open in Integrated Terminal'. A new terminal will open on the bottom of your VS Code window. On the command line, enter 'node index.js' then press enter. You will then be prompted with a series of questions about your repository for the generator.
+
+Demonstration:
+
+
 
     
 ## Contributing
