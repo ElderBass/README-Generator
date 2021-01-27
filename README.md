@@ -1,6 +1,6 @@
 # README Generator 
 
-
+Created by Seth Zygarlicke.
 
    * Deployed: https://elderbass.github.io/README-Generator/
 
@@ -78,7 +78,7 @@ To test stuff out on this respository, use this command:
 ## Questions
 
     
-See more projects by this creator on GitHub:  https://github.com/ElderBass
+See more projects by Seth Zygarlicke on GitHub:  https://github.com/ElderBass
 
    
 For any questions, please email the creator at:
