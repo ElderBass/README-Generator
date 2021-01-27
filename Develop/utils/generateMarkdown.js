@@ -73,13 +73,13 @@ function generateMarkdown(data) {
 
     \nIf you wish to contribute to the repository, here's what you need to know:
 
-    \n${data.contributing}
+    \n${data.contribute}
 
     \n## Tests 
 
     \nTo test stuff out on this respository, use this command:
 
-    ${data.test}
+    ${data.tests}
 
     \n## Questions
 

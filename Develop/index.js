@@ -77,7 +77,7 @@ async function init() {
     //...the README is then written using the markdown function's output for its data parameter
     await getInput()
         .then(answers => {
-            writeToFile('TESTREADME.md', markdown(answers));
+            writeToFile('NEWREADME.md', markdown(answers));
         })
         .catch(error => {
             if (error.isTtyError) {

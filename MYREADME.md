@@ -1,14 +1,14 @@
-# Slurpers 
+# Ass 
 
 
     
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
     
 ## Description
 
     
-Tryna slurp up them orbs bra
+asfsdf
 
     
 ## Table of Contents
@@ -36,7 +36,7 @@ Tryna slurp up them orbs bra
 ## Installation
 
     
-To install any needed dependencies, use the command:
+To install dependencies, use this command:
 
     
     npm i
@@ -48,7 +48,7 @@ To install any needed dependencies, use the command:
 User information:
 
     
-Gotta be slurping if you want to be burping.
+nudda
 
     
 ## Contributing
@@ -57,15 +57,15 @@ Gotta be slurping if you want to be burping.
 If you wish to contribute to the repository, here's what you need to know:
 
     
-undefined
+fdslkjf
 
     
 ## Tests 
 
     
-To test stuff out on this respository, use the following command:
+To test stuff out on this respository, use this command:
 
-    undefined
+    npm test
 
     
 ## Questions
@@ -79,7 +79,8 @@ For any questions, please email the creator at:
     email
 
 
-    ## License
+    
+## License
 
-    Project licensed under MIT license.
+    Project licensed under ISC license.
     
